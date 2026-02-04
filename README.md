@@ -1,4 +1,4 @@
-🏦 Banana Bank – Unstructured Banking Data Analytics Project
+**🏦 Banana Bank – Unstructured Banking Data Analytics Project**
 
 A complete end-to-end banking analytics project built on a large unstructured transactional dataset to identify fraud exposure, operational risks, customer churn signals and abnormal behaviour patterns.
 
